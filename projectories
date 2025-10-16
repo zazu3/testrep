@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projectiles</title>
+</head>
+<body>
+    <h4>Projectiles</h4>
+    <label for="v1">V1: </label>
+    <input type="text" id="v1">
+    <label for="v2">V2: </label>
+    <input type="text" id="v2">
+    <label for="a">a: </label>
+    <input type="text" value=9.81 id="a">
+    <label for="d">d: </label>
+    <input type="text" id="d">
+    <label for="t">t: </label>
+    <input type="text" id="t">
+    <h4>formulas to use</h4>
+    <div>
+        <input type="checkbox" name="finalv1" id="finalv1">
+        <label for="t">t: </label>
+    </div>
+</body>
+</html>
